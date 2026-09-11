@@ -21,7 +21,7 @@ A console-based ATM management system developed using Python and Excel.
 ## How to Run
 1. Install Python.
 2. Install OpenPyXL using `pip install openpyxl`.
-3. Run `python atm.py`.
+3. Run python "atm machine 2.py"
 4. Select an option from the ATM menu.
 
 ## Author
