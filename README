@@ -1,0 +1,28 @@
+# Python ATM Management System
+
+A console-based ATM management system developed using Python and Excel.
+
+## Features
+- Create a new account
+- Generate a unique account number
+- Set a 4-digit PIN
+- Deposit money
+- Withdraw money
+- Check account balance
+- Store account data in Excel
+- Validate account number and PIN
+- Prevent withdrawal with insufficient balance
+
+## Technologies Used
+- Python
+- OpenPyXL
+- Microsoft Excel
+
+## How to Run
+1. Install Python.
+2. Install OpenPyXL using `pip install openpyxl`.
+3. Run `python atm.py`.
+4. Select an option from the ATM menu.
+
+## Author
+Priyanka Thakre
